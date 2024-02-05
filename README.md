@@ -42,7 +42,8 @@ Algorithm For Recommendation
 The Recommendations are made by computing similarity scores for movies using consine simarity. For each movie tags are created by combining various details like genre of the movie, title, top cast, director and then they are converted to vectors using which similarity matrix is formed. Then for any searched movie the movies with the largest similarity score with it are sorted and then recommended.
 
 Cosine Similarity
-image
+![image](https://github.com/1997-himanshu/Content_Recommendation_System_AWS/assets/142774711/6b91418a-7cdf-4a1f-a92d-ea669afa6fac)
+
 
 References
 TMDB's API : https://www.themoviedb.org/documentation/api
