@@ -34,8 +34,9 @@ localhost :portNumber
 If this doesn't work use
 
 $ npm start
-Architecture 📄
-image
+Architecture 
+![170507933-fabe5dcc-52a0-476f-8650-c454a433bc48](https://github.com/1997-himanshu/Content_Recommendation_System_AWS/assets/142774711/9f28d413-3b62-454d-8303-f7512188c3f7)
+
 
 Algorithm For Recommendation
 The Recommendations are made by computing similarity scores for movies using consine simarity. For each movie tags are created by combining various details like genre of the movie, title, top cast, director and then they are converted to vectors using which similarity matrix is formed. Then for any searched movie the movies with the largest similarity score with it are sorted and then recommended.
